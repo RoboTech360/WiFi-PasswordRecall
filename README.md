@@ -31,7 +31,7 @@ Contributions to WiFi-PasswordRecall are welcome! If you would like to contribut
 
 ## License
 
-WiFiPassRecall is released under the [MIT License](LICENSE.md).
+WiFi-PasswordRecall is released under the [MIT License](LICENSE.md).
 
 ## Disclaimer
 
