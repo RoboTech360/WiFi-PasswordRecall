@@ -1,11 +1,10 @@
 # WiFi-PasswordRecall
 
-WiFiPassRecall is a small file that provides a simple and convenient way to retrieve forgotten WiFi passwords, for a network they connected long time ago or simply don't remember password.
+WiFiPassRecall is a executable file that provides user a convenient way to retrieve forgotten WiFi passwords, for a network they connected long time ago or simply forgot password.
 
 ## Features
 
 - Retrieve WiFi passwords: WiFi-PasswordRecall allows you to recover forgotten WiFi passwords for networks you have connected to in the past.
-- User-friendly interface: The tool offers a user-friendly interface that makes it easy to search and retrieve the desired WiFi password.
 - Compatibility: WiFi-PasswordRecall works with Windows operating system. 
 
 ## Getting Started
