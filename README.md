@@ -5,17 +5,19 @@ WiFiPassRecall is a executable file that provides user a convenient way to retri
 ## Features
 
 - Retrieve WiFi passwords: WiFi-PasswordRecall allows you to recover forgotten WiFi passwords for networks you have connected to in the past.
-- Compatibility: WiFi-PasswordRecall works with Windows operating system. 
+- option: User can retrive password for a particular Profile/SSID or see password for all SSID networks or get a log file with networks and passwords connected in history.
+- Compatibility: WiFi-PasswordRecall works with Windows operating system.
+- NOTE: Password for manaully Forget networks can not be recovered. 
 
 ## Getting Started
 
 To get started with WiFi-PasswordRecall, follow these simple steps:
 
-1. Download the WiFi-PasswordRecall file from the repository.
+1. Download the WiFi-PasswordRecall file from the repository. (WiFiPwd-Recall.EXE)
 2. Run the file on your computer.
 3. The tool will scan and display a list of previously connected WiFi networks.
-4. Select the network for which you need to retrieve the password.
-5. WiFi-PasswordRecall will display the password on the screen, allowing you to reconnect to the network.
+4. Select the option per requirement.
+5. WiFi-PasswordRecall will display the password on the screen, or log to a file "wifi_passwords.log"
 
 Note: WiFi-PasswordRecall requires administrative privileges to retrieve WiFi passwords successfully.
 
