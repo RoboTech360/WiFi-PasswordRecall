@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['scripts/WifiPwd-Recall.py'],
+    ['WifiPwd-Recall.py'],
     pathex=[],
     binaries=[],
     datas=[],

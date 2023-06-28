@@ -15,7 +15,7 @@ WiFi-PasswordRecall is a executable file that provides user a convenient way to 
 
 To get started with WiFi-PasswordRecall, follow these simple steps:
 
-1. Download the repository, dist/WiFi-PwdRecall.exe file from the repository.
+1. Download the repository, dist/WiFiPwd-Recall.exe file from the repository.
 2. Run the file on your computer.
 3. The tool will scan and display a list of previously connected WiFi networks.
 4. Select the option per requirement.
